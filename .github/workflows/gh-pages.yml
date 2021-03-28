@@ -21,9 +21,9 @@ jobs:
           python3 -m pip install --upgrade pip     # install pip
           python3 -m pip install mkdocs            # install mkdocs 
           python3 -m pip install mkdocs-material   # install material theme
-      - name ls
+      - name: ls
         run: ls -l
-      - name pwd
+      - name: pwd
         run: pwd
       - name: Build site
         run: mkdocs build
