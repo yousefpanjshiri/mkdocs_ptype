@@ -1,19 +1,20 @@
-# Welcome to MkDocs
+# Welcome to the NIST Ironperson Initiative Home Page
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## Commands
+## What This Is 
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* NIST 800-53 Rev. 4: (Security and Privacy Controls for Federal Information systems and Organizations 
+* Focusing on the controls explained in Appendix F of the framework 
+* 17 familes with sub families 
+## Who This Is For  
 
-## Project layout
+* Cybersecurity students 
+* Cybersecurity professionals 
+* Information technology professors 
+* Government officials 
+## How To Use
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-        
-adding a test line 4
+* Breaks down the framework explaining each control 
+* Understand weaknesses of information systems 
+* Understand severity level of each control 
+* Each control then has reactive measures
