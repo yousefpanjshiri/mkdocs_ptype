@@ -1,6 +1,13 @@
 site_name: VeritasLabs 
+repo_name: https://github.com/verituslabs/mkdocs_ptype
+site_url: https://verituslabs.github.io/mkdocs_ptype
+repo_name: mkdocs_ptype
+edit_uri: ""
 
-nav: 
+docs_dir: src
+site_dir: docs
+
+# give a title for each page
+nav:
     - Home: index.md
     - Families: families.md
-    
